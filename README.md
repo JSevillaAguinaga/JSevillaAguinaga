@@ -1,6 +1,8 @@
 # Hi! I'm José Sevilla
 ### Welcome to my GitHub profile 🤝
 
+Hello! I’m a junior data analyst and a graduate from Data Analyst Bootcamp at Le Wagon. I have hands-on experience as a data analyst in both the retail and public sectors, where I supported decision-making through data analysis, dashboards, and performance tracking. I have a solid foundation in working with large datasets and transforming data into meaningful insights using tools such as Excel, SQL, Power BI and Python. I’m motivated to keep learning and growing as a data professional while contributing value to organizations.
+
 <!--
 **JSevillaAguinaga/JSevillaAguinaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
