@@ -1,4 +1,4 @@
-# Hi, I'm José Sevilla
+# Hi! I'm José Sevilla
 ### Welcome to my GitHub profile 🤝
 
 <!--
