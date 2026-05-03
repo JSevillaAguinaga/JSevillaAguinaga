@@ -5,10 +5,10 @@ Hello! I’m a junior data analyst and a graduate from Data Analyst Bootcamp at 
 
 More about me:
 
--📈 I like to manage tools for data analysis like Excel, SQL, Python, Machine Learning.
--🚲 I like to play sports, mainly cycling, and go to the gym. *A healthy mind in a healthy body*.
--🌌 I am passionate about astronomy. Since childhood, I have read about celestial objects such as planetary systems, stars, black holes, and their interactions.
--🎹 Currently I'm learning to play musical keyboard.
+- 📈 I like to manage tools for data analysis like Excel, SQL, Python, Machine Learning.
+- 🚲 I like to play sports, mainly cycling, and go to the gym. *A healthy mind in a healthy body*.
+- 🌌 I am passionate about astronomy. Since childhood, I have read about celestial objects such as planetary systems, stars, black holes, and their interactions.
+- 🎹 Currently I'm learning to play musical keyboard.
 
 
 <!--
